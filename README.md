@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## Name JAYARAJ B
+## Reg.no. 24013576
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +29,10 @@ This commands includes
 <BR>
 
 ## Output
+
+![4ot](https://github.com/user-attachments/assets/425b3165-905d-4437-84e9-19bbd89e6c04)
+![4 output](https://github.com/user-attachments/assets/69b8c594-398c-4540-b8a5-4959ced6d463)
+
 
 ## Result
 Thus Execution of Network commands Performed 
